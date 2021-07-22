@@ -3,7 +3,7 @@
 	
 	A Full Stack developer who loves competitive programming and is always filled with innovative ideas
 </h3>
-![](https://hit.yhype.me/github/profile?user_id=52701972)
+
 <p align="center">
 	<img
 		src="https://komarev.com/ghpvc/?username=vishal-mourya&label=Profile%20views&color=0e75b6&style=flat"
@@ -11,19 +11,12 @@
 	/>
 </p>
 
-<p align="left">
-	<a href="https://twitter.com/" target="blank"
-		><img
-			src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge"
-			alt=""
-	/></a>
-</p>
 
 - 👨‍💻 All of my projects are available at
 [https://github.com/vishal-mourya?tab=repositories](https://github.com/vishal-mourya?tab=repositories)
 - 💬 Ask me about
 **Flutter NodeJS Competitive-Programming Innovation** 
-- 📫 How to reach me
+- 📫 reach me here
 **vishal.maurya2050@gmail.com**
 
 <br/>
