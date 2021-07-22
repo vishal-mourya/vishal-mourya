@@ -36,9 +36,7 @@
 			height="30"
 			width="40"
 	/></a>
-
-	<a href="https://codechef.com/users/addy_07" target="blank"
-		><img
+	<a href="https://codechef.com/users/addy_07" target="blank"><img
 			align="center"
 			src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
 			alt="addy_07"
