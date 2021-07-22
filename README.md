@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vishal Mourya</h1>
 <h3 align="center">
-	A Full Stack developer as well as a competitive programmer
+	
+	A Full Stack developer who loves competitive programming and is always filled with innovative ideas
 </h3>
-
+![](https://hit.yhype.me/github/profile?user_id=52701972)
 <p align="center">
 	<img
 		src="https://komarev.com/ghpvc/?username=vishal-mourya&label=Profile%20views&color=0e75b6&style=flat"
