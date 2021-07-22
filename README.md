@@ -16,17 +16,24 @@
 [https://github.com/vishal-mourya?tab=repositories](https://github.com/vishal-mourya?tab=repositories)
 - 💬 Ask me about
 **Flutter NodeJS Competitive-Programming Innovation** 
-- 📫 reach me here
+- 📫 reach out to me here
 **vishal.maurya2050@gmail.com**
 
 <br/>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Follow me:</h3>
 <p align="left">
 	<a href="https://www.linkedin.com/in/vishal-mourya-a4245b18b/" target="_blank"
 		><img
 			align="center"
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
 			alt="vishal-mourya"
+			height="30"
+			width="40"
+	/></a>
+	<a href="https://www.hackerrank.com/profile/VISHAL_MAURYA201" target="_blank"><img
+			align="center"
+			src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"
+			alt="VISHAL_MAURYA201"
 			height="30"
 			width="40"
 	/></a>
@@ -37,6 +44,7 @@
 			height="30"
 			width="40"
 	/></a>
+	
 </p>
 <br/>
 <h3 align="left">Languages and Tools:</h3>
