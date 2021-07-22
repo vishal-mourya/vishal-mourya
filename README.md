@@ -20,8 +20,9 @@
 **vishal.maurya2050@gmail.com**
 
 <br/>
-<h3 align="left">Follow me:</h3>
+<h3 align="left">Follow me on:</h3>
 <p align="left">
+	
 	<a href="https://www.linkedin.com/in/vishal-mourya-a4245b18b/" target="_blank"
 		><img
 			align="center"
@@ -56,6 +57,22 @@
 <br/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+	<a href="https://flutter.dev/" target="_blank">
+		<img
+			src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
+			alt="bootstrap"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://angular.io/" target="_blank">
+		<img
+			src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg"
+			alt="bootstrap"
+			width="40"
+			height="40"
+		/>
+	</a>
 	<a href="https://getbootstrap.com" target="_blank">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -68,14 +85,6 @@
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
 			alt="c"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://www.chartjs.org" target="_blank">
-		<img
-			src="https://www.chartjs.org/media/logo-title.svg"
-			alt="chartjs"
 			width="40"
 			height="40"
 		/>
@@ -195,23 +204,7 @@
 			height="40"
 		/>
 	</a>
-	<a href="https://reactjs.org/" target="_blank">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-			alt="react"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://redux.js.org" target="_blank">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-			alt="redux"
-			width="40"
-			height="40"
-		/>
-	</a>
-  <br/>
+	 <br/>
   <br/>
 </p>
 
