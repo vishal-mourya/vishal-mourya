@@ -41,8 +41,8 @@
 			align="center"
 			src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg"
 			alt="addy_07"
-			height="30"
-			width="40"
+			height="70"
+			width="100"
 	/></a>
 	<a href="https://leetcode.com/vishalmourya/" target="_blank"><img
 			align="center"
