@@ -23,8 +23,7 @@
 <h3 align="left">Follow me on:</h3>
 <p align="left">
 	
-	<a href="https://www.linkedin.com/in/vishal-mourya-a4245b18b/" target="_blank"
-		><img
+	<a href="https://www.linkedin.com/in/vishal-mourya-a4245b18b/" target="_blank"><img
 			align="center"
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
 			alt="vishal-mourya"
