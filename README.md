@@ -32,7 +32,7 @@
 	/></a>
 	<a href="https://www.hackerrank.com/profile/VISHAL_MAURYA201" target="_blank"><img
 			align="center"
-			src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"
+			src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg"
 			alt="VISHAL_MAURYA201"
 			height="30"
 			width="40"
