@@ -39,7 +39,7 @@
 	/></a>
 	<a href="https://codechef.com/users/addy_07" target="_blank"><img
 			align="center"
-			src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
+			src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg"
 			alt="addy_07"
 			height="30"
 			width="40"
