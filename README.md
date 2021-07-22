@@ -48,8 +48,8 @@
 			align="center"
 			src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg"
 			alt="vishalmourya"
-			height="30"
-			width="40"
+			height="70"
+			width="100"
 	/></a>
 	
 </p>
