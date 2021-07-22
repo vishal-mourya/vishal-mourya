@@ -28,7 +28,7 @@
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-	<a href="https://www.linkedin.com/in/vishal-mourya-a4245b18b/" target="blank"
+	<a href="https://www.linkedin.com/in/vishal-mourya-a4245b18b/" target="_blank"
 		><img
 			align="center"
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -36,7 +36,7 @@
 			height="30"
 			width="40"
 	/></a>
-	<a href="https://codechef.com/users/addy_07" target="blank"><img
+	<a href="https://codechef.com/users/addy_07" target="_blank"><img
 			align="center"
 			src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
 			alt="addy_07"
