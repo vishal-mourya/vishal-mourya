@@ -44,6 +44,13 @@
 			height="30"
 			width="40"
 	/></a>
+	<a href="https://leetcode.com/vishalmourya/" target="_blank"><img
+			align="center"
+			src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg"
+			alt="vishalmourya"
+			height="30"
+			width="40"
+	/></a>
 	
 </p>
 <br/>
