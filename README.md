@@ -229,7 +229,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Mourya</h1>
 <h3 align="center">
 	
-	🚀 Senior Software Engineer in Test | Test Architecture & Quality Engineering Expert 🚀
+	🚀 Senior Software Engineer | AI-Driven Infrastructure | Distributed Systems & Backend Architect 🚀
 	
 	3+ years transforming enterprise testing at Coupa Software • Architected scalable test automation platforms serving 1500+ developers • Spearheaded 15+ zero-bug feature releases • Delivered $500K+ annual cost savings through intelligent test optimization • Expert in building mission-critical test infrastructure using Playwright, Selenium, Kafka, Kubernetes, AWS, and Python
 </h3>
